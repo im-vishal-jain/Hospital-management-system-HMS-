@@ -1,14 +1,24 @@
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
+- 
 - [Features](#-features)
+- 
 - [Technology Stack](#-technology-stack)
+- 
 - [Project Structure](#-project-structure)
+
 - [Installation Guide](#-installation-guide)
+- 
 - [Usage](#-usage)
+- 
 - [Database Schema](#-database-schema)
+- 
 - [Troubleshooting](#-troubleshooting)
+- 
 - [Contributing](#-contributing)
+- 
 - [License](#-license)
+- 
 - [Support](#-support)
 
 ---
